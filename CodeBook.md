@@ -43,4 +43,5 @@ There are 6 steps to the R Script:
 * 2. Extract the measurements on the mean & standard deviation for each measurement
 * 3. Uses descriptive activity names to name the activities in the data set
 * 4. Appropriately labels the data set with descriptive activity names
-* 5. Creates a second, independent tidy data set with the average of each variable for each activity & each subject.
+* 5. Creates a second, independent tidy data set with the average of each variable for each activity & each subject
+* 6. Exports the tidy data to the tidydata.txt file.
